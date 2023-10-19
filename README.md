@@ -19,3 +19,5 @@
 
 > [mian2018/CSharp_TransparentForm](https://github.com/mian2018/CSharp_TransparentForm)
 
+## 授权
+> 授权请申请**小红兔（电子宠物）-基础版**
